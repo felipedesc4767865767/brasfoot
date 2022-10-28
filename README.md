@@ -1,3 +1,5 @@
-instale o brasfoot 23-23
-se não tiver registrado abra o txt registro brasfoot e copie o link e cole no navegador que vai aparecer o login e senha do brasfoot
-em seguida abra o brasfoot 22-23 vai até registro na area login copie o login após o logim: cole no brasfoot e em seguida copie a senha após do senha: cole no brasfoot
+install brasfoot 23-23
+if you haven't registered open the brasfoot registration txt and copy the link and paste it in the browser that will show the brasfoot login and password
+then open brasfoot 22-23 go to registration in the login area copy the login after the login: paste in brasfoot and then copy the password after the password: paste in brasfoot
+after that go to brazil updated 2021 or 2022 extract all teams in brasfoot teams folder
+extract the shirt and shield pack folder put it in a separate folder and copy the teams folder and the selections folder and paste it into the brasfoot folder
